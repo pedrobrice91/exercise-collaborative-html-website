@@ -2,21 +2,3 @@ body {
     background: #BDBDBD;
 }
 
-.imagen-portafolio {
-    width: 150px;
-    margin: auto;
-    margin-top: 10px;
-}
-
-.img-container-portafolio {
-    overflow: visible;
-    border-radius: 8px;
-}
-
-.img-container-portafolio img {
-    transition: transform 0.3s ease-in-out;
-}
-
-.img-container-portafolio img:hover {
-    transform: scale(1.5);
-}
