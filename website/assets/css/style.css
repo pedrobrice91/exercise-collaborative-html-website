@@ -2,3 +2,17 @@ body {
     background: #BDBDBD;
 }
 
+
+body{
+    background: white;
+}
+.img-section{
+    width: 400px;
+}
+.text-color{
+    color: gray;
+}
+.par-left{
+    margin-right: 180px;
+}
+
