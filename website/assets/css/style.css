@@ -1,3 +1,36 @@
-body{
+body {
     background: #BDBDBD;
+}
+
+
+body{
+    background: white;
+}
+.img-section{
+    width: 400px;
+}
+.text-color{
+    color: gray;
+}
+.par-left{
+    margin-right: 180px;
+}
+
+.imagen-portafolio {
+    width: 150px;
+    margin: auto;
+    margin-top: 10px;
+}
+
+.img-container-portafolio {
+    overflow: visible;
+    border-radius: 8px;
+}
+
+.img-container-portafolio img {
+    transition: transform 0.3s ease-in-out;
+}
+
+.img-container-portafolio img:hover {
+    transform: scale(1.5);
 }
